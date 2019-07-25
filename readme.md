@@ -1,7 +1,7 @@
 # Chemical synthesis of plasmonic metal nanoparticles and their characterization
 
 
-[About the project](./README.md)
+[About the project](./readme.md)
 
 [O projektu (HR)](./hrabout.md)
 
@@ -15,8 +15,7 @@
 - value of project: 59,000.00 HRK
 - people involved:  
 [Ivana Fabijanić](https://www.irb.hr/eng/About-RBI/People/Ivana-Fabijanic) from [Ruđer Bošković Institute](https://www.irb.hr/eng) (project leader),  
-[Neus Gomez Bastús](https://icn2.cat/en/staff-directory?member=186) from [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) (project co-leader),  
-[Jordi Sancho Parramon](https://www.irb.hr/eng/About-RBI/People/Jordi-Sancho-Parramon) from [Ruđer Bošković Institute](https://www.irb.hr/eng) (researcher involved)
+[Neus Gomez Bastús](https://icn2.cat/en/staff-directory?member=186) from [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) (project co-leader)
 
 ![UKF](./logos/ENznanjepomocen.jpg) 
 
