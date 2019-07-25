@@ -25,7 +25,7 @@
 
 Institut Ruđer Bošković je nositelj projekta.
 
-![KCL](./logos/KCLlogo130.gif)
+![ICN2](./logos/ICN2logo.png)
 
 Institut Català de Nanociència i Nanotecnologia je partnerska organizacija u inozemstvu na kojoj će voditelj projekta, uz mentorstvo ko-voditelja, steći nova znanja i vještine potrebne za uspješan završetak projekta.
 
