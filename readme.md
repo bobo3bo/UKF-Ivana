@@ -7,7 +7,7 @@
 
 [Contact](./contact.md)
 
-## Welcome to the webpage of the project "RChemical synthesis of plasmonic metal nanoparticles and their characterization".
+## Welcome to the webpage of the project "Chemical synthesis of plasmonic metal nanoparticles and their characterization".
 
 ### Info about the project:
 
