@@ -8,4 +8,4 @@
 [Contact](./contact.md)
 
 # contact information:
-Ivana FAbijanić, ivana(.)fabijanic(@)irb(.)hr
+Ivana Fabijanić, ivana(.)fabijanic(@)irb(.)hr
