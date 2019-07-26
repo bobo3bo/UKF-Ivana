@@ -15,11 +15,11 @@
 - vrijednost projekta: 59,000.00 HRK
 - ljudi na ovom projektu:  
 [Ivana Fabijanić](https://www.irb.hr/O-IRB-u/Ljudi/Ivana-Fabijanic) sa [Instituta Ruđer Bošković](https://www.irb.hr/) (voditeljica projekta),  
-[dr.sc. Neus Gomez Bastús](https://icn2.cat/en/staff-directory?member=186) sa [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) (ko-voditeljica projekta)
-[dr.sc. Vesna Janicki](https://www.irb.hr/O-IRB-u/Ljudi/Vesna-Janicki) sa [Instituta Ruđer Bošković](https://www.irb.hr/),
-[dr.sc. Jordi Sancho Parramon](https://www.irb.hr/O-IRB-u/Ljudi/Jordi-Sancho-Parramon) sa [Instituta Ruđer Bošković](https://www.irb.hr/),
-[prof. dr. sc. Jordi Arbiol](https://icn2.cat/en/advanced-electron-nanoscopy-group/jordi-arbiol) sa [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2),
-[dr. sc. Javier Patarroyo](https://icn2.cat/en/staff-directory?member=991) sa [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) 
+[dr.sc. Neus Gomez Bastús](https://icn2.cat/en/staff-directory?member=186) sa [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) (ko-voditeljica projekta),  
+[dr.sc. Vesna Janicki](https://www.irb.hr/O-IRB-u/Ljudi/Vesna-Janicki) sa [Instituta Ruđer Bošković](https://www.irb.hr/),  
+[dr.sc. Jordi Sancho Parramon](https://www.irb.hr/O-IRB-u/Ljudi/Jordi-Sancho-Parramon) sa [Instituta Ruđer Bošković](https://www.irb.hr/),  
+[prof. dr. sc. Jordi Arbiol](https://icn2.cat/en/advanced-electron-nanoscopy-group/jordi-arbiol) sa [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2),  
+[dr. sc. Javier Patarroyo](https://icn2.cat/en/staff-directory?member=991) sa [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2)  
 
 ![UKF](./logos/znanjepomoc.jpg) 
 
