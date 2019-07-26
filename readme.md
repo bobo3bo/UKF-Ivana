@@ -11,11 +11,15 @@
 
 ### Info about the project:
 
-- project duration: 1st of July to 1st of December 2019 (5 months)
+- project duration: 1st of July to 31t of November 2019 (5 months)
 - value of project: 59,000.00 HRK
 - people involved:  
 [Ivana Fabijanić](https://www.irb.hr/eng/About-RBI/People/Ivana-Fabijanic) from [Ruđer Bošković Institute](https://www.irb.hr/eng) (project leader),  
-[Neus Gomez Bastús](https://icn2.cat/en/staff-directory?member=186) from [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) (project co-leader)
+[dr.sc. Neus Gomez Bastús](https://icn2.cat/en/staff-directory?member=186) from [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) (project co-leader),
+[dr.sc. Vesna Janicki](https://www.irb.hr/eng/About-RBI/People/Vesna-Janicki) from [Ruđer Bošković Institute](https://www.irb.hr/eng),
+[dr.sc. Jordi Sancho Parramon](https://www.irb.hr/eng/About-RBI/People/Jordi-Sancho-Parramon) from [Ruđer Bošković Institute](https://www.irb.hr/eng),
+[prof. dr. sc. Jordi Arbiol](https://icn2.cat/en/advanced-electron-nanoscopy-group/jordi-arbiol) from [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2),
+[dr. sc. Javier Patarroyo](https://icn2.cat/en/staff-directory?member=991) from [Institut Català de Nanociència i Nanotecnologia](https://icn2.cat/en/about-icn2) 
 
 ![UKF](./logos/ENznanjepomocen.jpg) 
 
