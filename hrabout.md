@@ -7,6 +7,8 @@
 
 [Contact](./contact.md)
 
+[Results](./results.md)
+
 ## Dobrodošli na Internet stranicu projekta "Chemical synthesis of plasmonic metal nanoparticles and their characterization" ("Kemijska sinteza plazmonskih metalnih nanočestica i njihova karakterizacija").
 
 ### Osnovne informacije o projektu:
