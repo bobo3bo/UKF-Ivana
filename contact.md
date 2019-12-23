@@ -7,5 +7,7 @@
 
 [Contact](./contact.md)
 
+[Results](./results.md)
+
 # contact information:
 Ivana Fabijanić, ivana(.)fabijanic(@)irb(.)hr
