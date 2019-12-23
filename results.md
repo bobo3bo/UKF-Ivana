@@ -33,4 +33,7 @@ Silver nanoparticles
 Hollow gold nanoparticles
 ![hollowaunp](./sem/hollowaunp.jpg) 
 
+Absorbance of different nanoparticles measured with a spectrophotometer:
+![spect](./spect/spectr.png) 
+
 
