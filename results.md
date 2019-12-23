@@ -28,12 +28,12 @@ Various plasmonic nanoparticles solutions. Color depends on the size, shape and 
 Scanning electron microscope photographs of some nanoparticles:
 
 Gold nanoparticles
-![aunp](./sem/aunp.tif) 
+![aunp](./sem/aunp.jpg) 
 
 Silver nanoparticles
-![agnp](./sem/agnp.tif) 
+![agnp](./sem/agnp.jpg) 
 
 Hollow gold nanoparticles
-![hollowaunp](./sem/hollowaunp.tif) 
+![hollowaunp](./sem/hollowaunp.jpg) 
 
 
